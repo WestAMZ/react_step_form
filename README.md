@@ -6,5 +6,5 @@ This project is dividing in four steps
 -   Confirmation the inserted data
 -   Success with sending the data
 
-## Project Structure
+## Components Structure
 ![Project Structure](structure.png)
