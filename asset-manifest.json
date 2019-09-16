@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_step_form/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react_step_form/static/js/main.6b74bd0b.chunk.js",
+    "main.js.map": "/react_step_form/static/js/main.6b74bd0b.chunk.js.map",
+    "runtime~main.js": "/react_step_form/static/js/runtime~main.59f50b76.js",
+    "runtime~main.js.map": "/react_step_form/static/js/runtime~main.59f50b76.js.map",
+    "static/js/2.3886c994.chunk.js": "/react_step_form/static/js/2.3886c994.chunk.js",
+    "static/js/2.3886c994.chunk.js.map": "/react_step_form/static/js/2.3886c994.chunk.js.map",
+    "index.html": "/react_step_form/index.html",
+    "precache-manifest.981b48a7d6157bff3641a774873aeabf.js": "/react_step_form/precache-manifest.981b48a7d6157bff3641a774873aeabf.js",
+    "service-worker.js": "/react_step_form/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react_step_form/static/css/main.2cce8147.chunk.css.map"
+  }
+}
